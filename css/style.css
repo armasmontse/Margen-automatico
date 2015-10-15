@@ -1,0 +1,18 @@
+div{
+	width: 230px;
+	border: 10px yellow solid;
+	padding: 30px;
+	text-align:center;
+}
+.grande{
+	width: 1280px;
+	height: 560px;
+	border: 2px black solid;
+}
+.centro{
+	width: 230px;
+	border: 10px yellow solid;
+	padding: 30px;
+	margin: auto;
+	text-align: left;
+}
